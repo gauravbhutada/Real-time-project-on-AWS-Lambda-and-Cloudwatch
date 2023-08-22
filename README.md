@@ -1,5 +1,6 @@
 # Real-time-project-on-AWS-Lambda-and-Cloudwatch
 
+
 In our capacity as a Cloud Engineering team, our primary responsibility revolves around the meticulous management of the AWS ecosystem while diligently ensuring its alignment with the established organizational protocols. To facilitate this endeavor, we leverage the dynamic capabilities of AWS CloudWatch in conjunction with the versatile prowess of AWS Lambda to enact a comprehensive governance framework that seamlessly enforces the prescribed policies.
 
 A prime illustration of our methodology involves the strategic deployment of Lambda functions triggered in response to the creation of Amazon Elastic Block Store (EBS) volumes. This intricate orchestration is seamlessly realized through the utilization of Amazon CloudWatch Events, an indispensable tool that empowers us to vigilantly monitor and promptly address the operational dynamics surrounding EBS volumes, particularly those designated as type GP2. Swift to action, our team proficiently orchestrates the conversion of these GP2 volumes to the more optimized and suitable GP3 type, thus further aligning our infrastructure with the pre-defined policies and enhancing operational efficiency.
